@@ -1,1 +1,7 @@
-
+{
+  "success": true,
+  "user": {
+    "first_login": false,
+    "id": 123,
+    "user_id": 123
+  }
